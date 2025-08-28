@@ -9,3 +9,5 @@ ETHOS is an open-source toolkit that makes stablecoin payments work smoothly in 
 **ETHOS API:** A single, stable API that connects wallets, POS apps, and backends to on-chain settlement. Built for speed and easy integration on Polygon.
 
 **Smart contracts:** Audited, modular contracts for merchant accounts, programmable settlement, fees/discounts, and future extensions.
+
+![Ethos Pipeline](https://github.com/zshahzadpumacy/ETHOS/blob/main/Images/Ethos%20Pipeline.png)
